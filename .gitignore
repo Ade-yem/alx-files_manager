@@ -131,6 +131,6 @@ dist
 
 redis-7.0.12/
 babel.config.js
-main.js
+
 package-lock.json
 .eslintrc.js
