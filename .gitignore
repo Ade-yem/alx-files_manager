@@ -134,3 +134,4 @@ babel.config.js
 
 package-lock.json
 .eslintrc.js
+main.js
